@@ -1,0 +1,6 @@
+the scene tree
+
+game - player
+     - spawner - timer
+     - UI - GameOverMenu - button
+          - TouchControls
